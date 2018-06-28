@@ -22,5 +22,12 @@
     "autoload": {
         "psr-4": {"Puritan\\BBCode\\": "src/"}
     },
+    "extra": {
+        "laravel": {
+             "providers": [
+                  "Puritan\\BBCode\\BBCodeParserServiceProvider"
+               ]
+         }
+    },
     "minimum-stability": "stable"
 }
