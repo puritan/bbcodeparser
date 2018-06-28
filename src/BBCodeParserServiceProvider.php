@@ -1,4 +1,4 @@
-<?php namespace Golonka\BBCode;
+<?php namespace Puritan\BBCode;
 
 use Illuminate\Support\ServiceProvider;
 
