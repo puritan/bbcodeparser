@@ -1,4 +1,4 @@
-<?php namespace Golonka\BBCode\Facades;
+<?php namespace Puritan\BBCode\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
