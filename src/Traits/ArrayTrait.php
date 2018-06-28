@@ -1,4 +1,4 @@
-<?php namespace Golonka\BBCode\Traits;
+<?php namespace Puritan\BBCode\Traits;
 
 trait ArrayTrait
 {
